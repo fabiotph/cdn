@@ -1,1 +1,1 @@
-document.body.innerHTML = "<embed width='100%' height='100%' style='min-height: 600px; min-widht: 600px' src='https://bigfarm.goodgamestudios.com/'></embed>";
+document.body.innerHTML = "<iframe width='100%' allowfullscreen='false' height='100%' src='https://lp.bigfarm.goodgamestudios.com/?lp=bdlp'></iframe>";
